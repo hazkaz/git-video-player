@@ -1,0 +1,4 @@
+.gitmodules
+frames/
+*.mp4
+!birb.mp4

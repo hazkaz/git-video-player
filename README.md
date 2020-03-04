@@ -14,7 +14,7 @@ This is the end result of _git checkout_-ing very fast through all the frames
 
 ```python
 # commit frame by frame
-python3 git-it.py
+python3 git-it.py birb.mp4
 
 # checkout and play fram by fram
 python3 play-commits.py
