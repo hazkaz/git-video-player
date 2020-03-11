@@ -2,7 +2,12 @@
 
 #### Imagine...if all you had to do to watch a movie was clone a repo.
 
-<span style="font-size:10px">Well that hasn't happened yet, but this is a first step in that direction</span>
+* Checkout to release to see the final version of the movie.
+* Checkout to develop to see the director's cut :P
+* Watch a movie Bandersnatch style by checking out to different trees in the history
+* Watch bloopers in bugfix/reverted-some-changes
+
+<span style="font-size:10px">Well all that hasn't happened yet, what you see here is just pure madness</span>
 
 Starting with the first frame of the movie, each new frame is a commit in the repository.
 
