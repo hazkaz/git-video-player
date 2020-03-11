@@ -7,7 +7,7 @@
 * Watch a movie Bandersnatch style by checking out to different trees in the history
 * Watch bloopers in bugfix/reverted-some-changes
 
-<span style="font-size:10px">Well all that hasn't happened yet, what you see here is just pure madness</span>
+<span style="font-size:10px">Well all that hasn't happened yet, what you see here is just the first step</span>
 
 Starting with the first frame of the movie, each new frame is a commit in the repository.
 
