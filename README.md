@@ -17,6 +17,7 @@ This is the end result of _git checkout_-ing very fast through all the frames
 
 ![](demo.gif)
 
+#### Try it out yourself
 ```python
 # commit frame by frame
 python3 git-it.py birb.mp4
