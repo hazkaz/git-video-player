@@ -4,7 +4,7 @@
 
 * Checkout to release to see the final version of the movie.
 * Checkout to develop to see the director's cut :P
-* Watch a movie Bandersnatch style by checking out to different trees in the history
+* Watch a movie [Bandersnatch](https://en.wikipedia.org/wiki/Black_Mirror:_Bandersnatch) style by checking out to different trees in the history
 * Watch bloopers in bugfix/reverted-some-changes
 
 <span style="font-size:10px">Well all that hasn't happened yet, what you see here is just the first step</span>
